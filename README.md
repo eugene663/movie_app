@@ -1,4 +1,5 @@
 # Movie App 2019
+https://eugene663.github.io/movie_app/
 
 ### 프로젝트 내용
 Nomad Coders의 'ReactJS로 영화 웹 서비스 만들기' 강의(https://nomadcoders.co/react-fundamentals/lobby)를 따라 진행했다.
